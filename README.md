@@ -1,1 +1,3 @@
 # grapher
+
+console for maths
